@@ -98,7 +98,7 @@ Both the pipeline runs have been completed.
 
 
 ## Screen Recording
-Click [here]() to see the ScreenCast.
+Click [here](https://youtu.be/7dWDVf9Tf9M) to see the ScreenCast.
 
 ## Scope of improvement:
 Providing the option of enabling deep learning during AutoML model creation would prove beneficial in terms of results and learning. Cross-comparing the models on factors like scoring metric, computational complexity, running time can also be added. 
