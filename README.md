@@ -99,3 +99,5 @@ Click [here]() to see the ScreenCast.
 ## Scope of improvement:
 Providing the option of enabling deep learning during AutoML model creation would prove beneficial in terms of results and learning. Cross-comparing the models on factors like scoring metric, computational complexity, running time can also be added. 
 More focus can be given on benchmarking content and different tools can also be compared.
+
+Although AutoML normally takes into account this imbalance automatically, there should be more room to improve the model's accuracy in predicting the minority class. For example, we could use Random Under-Sampling of majority class, or Random Over-Sampling of minority class, or even try different algorithms.
