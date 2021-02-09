@@ -27,6 +27,10 @@ Select the best model on the data, which is usually the topmost and analyze the 
 ![alt text](https://github.com/sahil27x/Operationalizing-Machine-Learning_Project/blob/main/screenshot/best-model.jpg)
 <br></br>
 
+Deploying the best-model with Authenitication enabled using Azure Container Instance (ACI)
+![alt text](https://github.com/sahil27x/Operationalizing-Machine-Learning_Project/blob/main/screenshot/deploy.jpg)
+<br></br>
+
 #### 4. Run the logs.py script to observe the logs.<br></br>
 Write the code to enable application insights in the logs.py file and run the file. Observe the logs it provides of the deployed model.
 ![alt text](https://github.com/sahil27x/Operationalizing-Machine-Learning_Project/blob/main/screenshot/logsdotpy.jpg)
