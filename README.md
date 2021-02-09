@@ -28,7 +28,7 @@ Select the best model on the data, which is usually the topmost and analyze the 
 <br></br>
 
 Deploying the best-model with Authenitication enabled using Azure Container Instance (ACI)
-![alt text](https://github.com/sahil27x/Operationalizing-Machine-Learning_Project/blob/main/screenshot/deploy.jpg)
+![alt text](https://github.com/sahil27x/Operationalizing-Machine-Learning_Project/blob/main/screenshot/deploy.PG)
 <br></br>
 
 #### 4. Run the logs.py script to observe the logs.<br></br>
