@@ -80,6 +80,10 @@ This is the published pipeline's endpoint
 ![alt text](https://github.com/sahil27x/Operationalizing-Machine-Learning_Project/blob/main/screenshot/pipeline-endpoint.jpg)
 <br></br>
 
+Pipeline endpoint overview -Status
+![alt text](https://github.com/sahil27x/Operationalizing-Machine-Learning_Project/blob/main/screenshot/pipeline_endpoint.JPG)
+<br></br>
+
 #### 11. Bank Marketing Dataset with AutoML module. <br></br>
 ![alt text](https://github.com/sahil27x/Operationalizing-Machine-Learning_Project/blob/main/screenshot/pipeline-automl.jpg)
 <br></br>
